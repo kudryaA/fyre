@@ -20,6 +20,6 @@
     "bunyan": "^1.8.12",
     "fetch-cookie": "^0.7.3",
     "form-data": "^2.5.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
